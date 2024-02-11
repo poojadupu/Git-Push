@@ -3,7 +3,8 @@ package pojo;
 public class Api {
 
 	private String courseTitle;
-	private String price;
+	private String prices;
+private String prices;
 	public String getCourseTitle() {
 		return courseTitle;
 	}
