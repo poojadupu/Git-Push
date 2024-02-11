@@ -2,6 +2,7 @@ package pojo;
 
 public class Api {
 
+private String prices-merge-conflict;
 	private String courseTitle;
 	private String prices;
 private String prices;
